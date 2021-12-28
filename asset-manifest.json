@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hamburg-pubs.github.io/static/css/main.d28b3594.chunk.css",
+    "main.js": "/hamburg-pubs.github.io/static/js/main.f6aabbc5.chunk.js",
+    "main.js.map": "/hamburg-pubs.github.io/static/js/main.f6aabbc5.chunk.js.map",
+    "runtime-main.js": "/hamburg-pubs.github.io/static/js/runtime-main.650452f3.js",
+    "runtime-main.js.map": "/hamburg-pubs.github.io/static/js/runtime-main.650452f3.js.map",
+    "static/js/2.fe179a85.chunk.js": "/hamburg-pubs.github.io/static/js/2.fe179a85.chunk.js",
+    "static/js/2.fe179a85.chunk.js.map": "/hamburg-pubs.github.io/static/js/2.fe179a85.chunk.js.map",
+    "index.html": "/hamburg-pubs.github.io/index.html",
+    "static/css/main.d28b3594.chunk.css.map": "/hamburg-pubs.github.io/static/css/main.d28b3594.chunk.css.map",
+    "static/js/2.fe179a85.chunk.js.LICENSE.txt": "/hamburg-pubs.github.io/static/js/2.fe179a85.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hamburg-pubs.github.io/static/media/bg.c479a07e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.650452f3.js",
+    "static/js/2.fe179a85.chunk.js",
+    "static/css/main.d28b3594.chunk.css",
+    "static/js/main.f6aabbc5.chunk.js"
+  ]
+}
